@@ -1,0 +1,214 @@
+/* CSS Document */
+
+
+/* Header */
+
+.brand-logo{
+    background-color: #fff !important;
+    margin-top: 200px;
+}
+
+.ui-header{
+    background-color: #B4ADAC!important;
+    text-shadow: none !important;
+    color: #cecdcd !important;
+    border-color: #B4ADAC !important;
+}
+
+.white {
+    background-color: #fff !important;
+    border-radius: 5px;
+    text-shadow: none !important;
+}
+
+.ui-link{
+    background-color: #B4ADAC!important;
+    color: #0F0E0E !important;
+    text-shadow: none !important;
+    border-color: #B4ADAC!important;
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+#singlebutton{
+    background-color: #A5CCD1 !important;
+    text-shadow: none !important;
+}
+
+#singlebutton2{
+    background-color: #A5CCD1 !important;
+    text-shadow: none !important;
+}
+
+.top{
+    background-color: #8CB9B7 !important;
+    font-weight: 600 !important;
+}
+
+.previous {
+    border-color: transparent !important;
+    box-shadow: none;
+    background-color: transparent !important;
+   
+
+}
+.next {
+   
+    border-color: transparent !important;
+    box-shadow: none;
+    background-color: transparent !important;
+    }
+
+
+/* Body */
+
+.ui-content {
+    
+    border-width: 0;
+    overflow: visible;
+    overflow-x: hidden;
+    padding: 1em;
+    background-color: #fff;
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+.grey.lighten-4 {
+    background-color: #8CB9B7 !important;
+    border-radius: 5px;
+    font-size: 2.5vh;
+    font-weight: 600;
+    text-decoration: none !important;
+    text-shadow: none !important;
+    display: flex !important;
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+
+.center{
+    text-align: center;
+    background-color: #8CB9B7 !important;
+    text-shadow: none !important;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-size: 40px !important;
+    padding: 5;
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+.collapsible-header.grey.lighten-4:active {
+    background-color: #17cc9dcf !important;
+}
+
+
+.nav-wrapper {
+    position: none !important;
+    height: 100%;
+}
+element.style {
+    background-color: #fff;
+    
+}
+
+.yellow.darken-2 {
+    background-color: #92bfb1 !important;
+    text-shadow: none !important;;
+}
+
+.fed{
+    font-weight: bold !important;
+}
+
+element.style {
+    width: 180px;
+    margin-bottom: 10px;
+    margin: 0px 0px 20px 75px !important;
+}
+
+nav.z-depth-0.grey.lighten {
+    background-color: #B4ADAC !important; 
+    border-radius: 5px;
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+.modal {
+    width: 80% !important;
+    height: 80% !important;
+
+}
+
+.modal-content {
+     border: none !important;
+  
+}
+
+input[type=email]{
+    margin: 0 0 0px 0 !important;
+}
+input[type=password]{
+    margin: 0 0 0px 0 !important;
+}
+
+
+.links{
+    background-color: transparent !important;
+    color: #589895 !important;
+}
+
+
+.jumbotron-fluid{
+    text-shadow: none;
+    background-color: #8cb9b74a;
+    border-radius: 5px !important;
+ 
+}
+
+.jumbotron-fluid.to{
+background-color: #a5ccd16e !important;
+}
+
+.jumbotron-fluid.tre{
+    background-color: #9dacb252 !important;
+    }
+
+element.style {
+    min-height: 667px;
+    background-color: #fff;
+}
+
+strong {
+    font-weight: 600;
+}
+
+.collapsible-body {
+    padding: 1rem ;
+}
+
+.mx-auto{
+    min-height: 50px !important;
+}
+
+/* Footer */
+
+.glyphicon-home {
+    font-size: 125% !important;
+}
+ .glyphicon-align-justify{
+    font-size: 125% !important;
+}
+
+.glyphicon-exclamation-sign {
+    font-size: 125% !important;
+}
+
+.glyphicon-book {
+    font-size: 125% !important;
+}
+
+
+.topicon{
+        
+    font-size: 300% !important;
+    margin-top: -15px;
+       
+}
+
+[data-role=page]{height: 100% !important; position:relative !important;}
